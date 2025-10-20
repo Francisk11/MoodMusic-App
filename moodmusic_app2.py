@@ -34,20 +34,20 @@ canciones = {
     "Te llevo para que me lleves - Gustavo Cerati": "amor ternura nostalgia",
     "Luna de miel en la mano - Virus": "alegria diversion energia",
     "Me gustas mucho - Viejas Locas": "amor deseo ternura",
-    "Cicatrices - Airbag": "nostalgia melancolia tristeza",
+    "Cicatrices - Airbag": "nostalgia melancolia tristeza triste",
     "Corazon delator - Soda Stereo": "nostalgia melancolia desconfianza",
     "Ella uso mi cabeza como un revolver - Soda Stereo": "desamor melancolia enojo",
     "Un Misil en Mi Placard - Soda Stereo": "desamor melancolia vulnerabilidad",
     "Adiós - Gustavo Cerati": "desamor nostalgia melancolia",
     "Nada Personal - Soda Stereo": "deseo alegria energia",
-    "Te para tres - Soda Stereo": "melancolia tristeza soledad",
+    "Te para tres - Soda Stereo": "melancolia tristeza triste soledad",
     "Flechazo en el centro - Ysy a, Bhavi, Milo J": "amor alegria deseo",
     "Puente - Gustavo Cerati": "nostalgia melancolia reflexion",
-    "No soy eterno - Milo J": "melancolia tristeza",
+    "No soy eterno - Milo J": "melancolia tristeza triste",
     "Mira mamá - WOS": "melancolia nostalgia reflexion",
-    "Creep - Radiohead": "tristeza desamor soledad",
+    "Creep - Radiohead": "tristeza triste desamor soledad",
     "Feel Good INC - Gorillaz": "melancolia ironia energia",
-    "Historia de un Taxi - Ricardo Arjona": "amor tristeza nostalgia",
+    "Historia de un Taxi - Ricardo Arjona": "amor tristeza triste nostalgia",
     "Porque te Demoras? - Plan B": "alegria energia deseo",
     "When Me up When Septembers Ends - Green Day": "melancolia desamor reflexion",
     "Canguro - WOS": "enojo energia rebeldia",
@@ -75,11 +75,11 @@ canciones = {
     "Persiana Americana - Soda Stereo": "amor deseo energia ternura",
     "En la Ciudad de la Furia - Soda Stereo": "melancolia nostalgia soledad reflexion",
     "Mil Horas - Los Abuelos de la Nada": "amor nostalgia melancolia ternura",
-    "Flaca - Andrés Calamaro": "desamor nostalgia tristeza",
+    "Flaca - Andrés Calamaro": "desamor nostalgia tristeza triste",
     "Ji Ji Ji - Patricio Rey y sus Redonditos de Ricota": "energia rebeldia diversion",
     "Cerca de la Revolución - Charly García": "energia rebeldia motivacion",
     "Rezo por Vos - Charly García y Luis Alberto Spinetta": "esperanza amor nostalgia ternura",
-    "Seguir Viviendo Sin Tu Amor - Luis Alberto Spinetta": "desamor melancolia tristeza soledad",
+    "Seguir Viviendo Sin Tu Amor - Luis Alberto Spinetta": "desamor melancolia tristeza triste soledad",
     "Muchacha (Ojos de Papel) - Almendra": "amor deseo nostalgia ternura",
     "Demoliendo Hoteles - Charly Garcia": "energia enojo rebeldia",
     "Fanky - Charly Garcia": "energia alegria diversion",
@@ -92,10 +92,10 @@ canciones = {
     "And I Love Her - The Beatles": "amor melancolia ternura",
     "Michelle - The Beatles": "amor melancolia ternura",
     "If I Fell - The Beatles": "amor deseo ternura",
-    "Bohemian Rhapsody - Queen": "tristeza melancolia drama intensidad",
+    "Bohemian Rhapsody - Queen": "tristeza triste melancolia drama intensidad",
     "We Will Rock You - Queen": "energia motivacion rebeldia",
     "We Are The Champions - Queen": "orgullo motivacion alegria",
-    "Somebody to Love - Queen": "amor deseo tristeza melancolia",
+    "Somebody to Love - Queen": "amor deseo tristeza triste melancolia",
     "Don't Stop Me Now - Queen": "energia alegria diversion"
 }
 
@@ -188,4 +188,5 @@ if st.session_state.recomendaciones:
 
 
 # --- Pie de página ---
+
 st.markdown("---")
